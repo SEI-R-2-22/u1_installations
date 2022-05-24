@@ -9,6 +9,9 @@ We'll be installing all of the tools necessary for Unit 1 in this lesson.
 
 ***It is so important that you follow all of these instructions to a T, without skipping ahead.  It is also very important, when working in the terminal, to ensure that you type everything exactly correctly before running the command. You are interacting with your computer's inner configurations, and each command should be treated with care and intention.***
 
+This process may be difficult for some of us, with different versions of the technology we are downloading, and the hardware we are using. If you run into any errors please let your instructors know. There is a good chance that if one person is seeing an error through this, others will be seeing the same errors. If you are feeling overwhelmed by any of this do not get discouraged! Dealing with installs and updates is a crucial part of this field. We will get everyone set up, even if it involves working 1 on 1 in a breakout room, or Googling a new error message we have not seen before! 
+
+
 ## Slack
 
 We'll be using Slack to register attendance and communicate during class. Follow the instructions below to sign up for Slack.
