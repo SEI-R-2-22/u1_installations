@@ -9,7 +9,13 @@ We'll be installing all of the tools necessary for Unit 1 in this lesson.
 
 ***It is so important that you follow all of these instructions to a T, without skipping ahead.  It is also very important, when working in the terminal, to ensure that you type everything exactly correctly before running the command. You are interacting with your computer's inner configurations, and each command should be treated with care and intention.***
 
-This process may be difficult for some of us, with different versions of the technology we are downloading, and the hardware we are using. If you run into any errors please let your instructors know. There is a good chance that if one person is seeing an error through this, others will be seeing the same errors. If you are feeling overwhelmed by any of this do not get discouraged! Dealing with installs and updates is a crucial part of this field. We will get everyone set up, even if it involves working 1 on 1 in a breakout room, or Googling a new error message we have not seen before! 
+This process may be difficult for some, with different versions of the technology we are downloading, and the hardware we are using. If you run into any errors please let your instructors know so we can take care of them. 
+
+There is a good chance that if one person is seeing an error through this, others will be seeing the same errors, so please let us know what you are seeing on your screen.  
+
+For many of you, this will be the first time doing installations and set up this way. It is different than what you may be used to, we know, we've all done this ourselves as well. If you are feeling overwhelmed by any of this do not get discouraged! Dealing with installs and updates is a crucial part of this field. 
+
+We will get everyone set up, even if it involves working 1 on 1 in a breakout room, or researching a new error message we have not seen before! 
 
 
 ## Slack
